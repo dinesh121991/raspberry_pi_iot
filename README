@@ -1,0 +1,12 @@
+sudo nano etc/wpa_supplicant/wpa_supplicant.conf 
+
+
+
+
+in the file type 
+
+
+network={ 
+	ssid="wifi name"
+	psk="your-password"
+}
